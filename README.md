@@ -23,7 +23,7 @@ The default for resolution is set to (1920 x 1080). Put the resolution that you 
 The default for aspect ratio is (0) which is (16:9). Choose the aspect ratio that is correct for you from the selection within the d3d9.ini file and replace (0) with the number correct for you.
 
 # FPS
-Choose one of the releases of either (60fps or up to 278fps) to use. If your monitor is 60hz then choose the 60fps release. If your monitor is 120hz or more choose the uncapped fps release.
+Choose one of the releases of either (60fps or 120fps) to use. If your monitor is 60hz then choose the 60fps release. If your monitor is 120hz or more choose the 120 fps release.
 
 # FOV
 You can choose in the d3d9.ini file either 1, 2 or 3 each will zoom the FOV/camera in the game out slightly more. Choose which option you want to use, and it will be reflected in the game, 0 is off or original game cameras FOV.
