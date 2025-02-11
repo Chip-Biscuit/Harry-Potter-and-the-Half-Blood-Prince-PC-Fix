@@ -8,7 +8,7 @@ Watch the official fix guide video here on how to install the game and use the f
 # Instructions
 You must launch the game once before you use this fix. You will either need to start a new game or continue a save file and go to the video settings and make sure your resolution is 640 x 480 in order for the d3d9.dll file to work.
 
-Go to releases, download the Harry Potter and the Half Blood Prince Fix that fits the requirements you need, then extract the d3d9.dll, d3d9.ini and the fps.dll files into your game folder next to the hp6.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
+Go to releases, download the latest Harry Potter and the Half Blood Prince Fix release that fits the requirements you need, then extract the d3d9.dll, d3d9.ini and the fps.dll files into your game folder next to the hp6.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
 # Other Important Information
 If you are a user where the FPS does not work correctly and is stuttery when putting in a cap or uncapping in the d3d9 ini file, then you must do the following.
