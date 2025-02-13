@@ -1,5 +1,7 @@
 # Harry Potter and the Half Blood Prince PC Fix
 
+![hp6](https://github.com/user-attachments/assets/dd46f405-0756-4e61-a4dd-d27e04667185)
+
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
