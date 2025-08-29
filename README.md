@@ -12,7 +12,7 @@ Watch the official fix guide video here on how to install the game and use the f
 Watch the official fix guide video here on how to install the game and use the fix
 
 <a href="https://www.youtube.com/watch?v=DTkDNoQrxhU&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=9&t=2s">
-  <img src="[https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633](https://github.com/user-attachments/assets/49e76762-c0d6-42c0-a87d-1283669fef0b)" alt="The Hobbit 2003" width="480" height="360">
+  <img src="https://github.com/user-attachments/assets/49e76762-c0d6-42c0-a87d-1283669fef0b" alt="The Hobbit 2003" width="480" height="360">
 </a><br>
 
 ###### <i>Click the image above to watch the video</i>
