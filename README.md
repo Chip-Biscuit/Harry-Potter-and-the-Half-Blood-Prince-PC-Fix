@@ -7,6 +7,16 @@ IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
 Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=DTkDNoQrxhU&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=9&t=2s 
 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=DTkDNoQrxhU&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=9&t=2s">
+  <img src="[https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633](https://github.com/user-attachments/assets/49e76762-c0d6-42c0-a87d-1283669fef0b)" alt="The Hobbit 2003" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
+
 # Instructions
 You must launch the game once before you use this fix. You will either need to start a new game or continue a save file and go to the video settings and make sure your resolution is 640 x 480 in order for the d3d9.dll file to work.
 
