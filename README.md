@@ -5,7 +5,6 @@
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=DTkDNoQrxhU&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=9&t=2s 
 
 # Official video guide
 
