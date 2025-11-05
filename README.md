@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry Potter and the Half Blood Prince PC Fix
 
 ![hp6](https://github.com/user-attachments/assets/dd46f405-0756-4e61-a4dd-d27e04667185)
